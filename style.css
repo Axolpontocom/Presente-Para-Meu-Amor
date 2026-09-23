@@ -28,8 +28,25 @@ p{
 
 }
 
+iframe{
+    margin-top: 50px;
+    width: 80%;
+    height: 500px;
+}
 
-#parIni{
+b{
+    color: #ff0000;
+}
+
+#tempo{
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    font-weight: 900;
+    width: 80%;
+}
+
+#parIni, #Tempojuntos{
     display: flex;
     flex-direction: column;
     justify-content: center;
