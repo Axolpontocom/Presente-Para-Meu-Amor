@@ -42,6 +42,7 @@ tempoJuntos.innerHTML = `
             <span><b>${horastotal}</b> ${textohora} </span>
             <span><b>${minutostotal}</b> ${textomin} e </span>
             <span><b>${segundostotal}</b> ${textoseg}</span>
+           <br> <i>te amando</i>
         </p>
     `;
 
